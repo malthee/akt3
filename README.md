@@ -1,6 +1,7 @@
 # AKT3ILVT1 - Project
 Project Team: Stefan Weißensteiner, Marcel Salvenmoser  
 Dataset: https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification/ 
+Results: https://malthee.github.io/akt3/AKT3ILVT1_Weissensteiner_Salvenmoser.html
 
 ## Progress
 * [x] 2 classes (apples and tomatoes)
